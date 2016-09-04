@@ -7,7 +7,8 @@ Structure of Android Applications
 # Before Lecture
 ## Install Android Studio
 - Install android studio: https://developer.android.com/studio/index.html
-
+- Look at this page (https://developer.android.com/guide/components/fundamentals.html)
+    - don't worry if you don't understand most of it, we'll look over it again after the lecture
 
 # Lecture
 
