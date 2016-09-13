@@ -18,6 +18,8 @@ Hello World!
 - i found it much more difficult to set up my hello world project than i expected, so this will be shorter than usual
 - we'll go over the structure of the code and screw around a little
 - then we'll help you get set up
+- this lecture folder DOESN'T have code because we want you guys to set it up yourself
+    - all later lectures with code will have code in the repo
 
 ## modifying activity layout
 - activity layout (usually) controlled by xml
