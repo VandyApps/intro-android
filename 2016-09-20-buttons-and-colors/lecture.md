@@ -25,3 +25,6 @@ public void handleClick(View view) {
 
 ## Code
 - code is in the folder [lol](lol/)
+
+## Results
+![example of changing colors in response to edittext and button press](out.gif)
