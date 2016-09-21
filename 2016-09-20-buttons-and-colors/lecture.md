@@ -11,6 +11,7 @@ public void handleClick(View view) {
 }
 ```
 
+- any name for the handler function can be used though
 - change background color of layout with `findViewById()`, `setBackgroundColor()`
 
 ## add editText, talk about layouts
