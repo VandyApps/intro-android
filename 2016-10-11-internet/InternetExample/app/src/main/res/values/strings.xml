@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InternetExample</string>
+    <string name="button_prompt">Go</string>
+    <string name="edit_hint">Enter a url!</string>
+</resources>
