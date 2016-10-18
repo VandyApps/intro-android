@@ -13,6 +13,7 @@ nearby places
 - opens separate activity to pick location, returns to calling activity
 
 ## today
+- **USE AN EMULATOR RUNNING API 24!!!**
 - open place picker in a separate activity and display the result on the screen!
 - you can start off with the code in [start](start/)
 - my finished version will be available in [end](end/) after the class is finished
