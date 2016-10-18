@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetLocationFromMap</string>
+    <string name="getLocButton">Get location from map!</string>
+    <string name="defaultLocText">No location selected!</string>
+</resources>
