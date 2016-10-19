@@ -8,7 +8,7 @@ place picker
 
 ## google place picker
 - uses places api
-- use an api key i made: AIzaSyBGd38Atou3a6zFzLWkYIWKp
+- use an api key i made: `AIzaSyBGd38Atou3a6zFzLWkYIWKp-e_uqean0Q`
     - please don't use this to spam the service
 - opens separate activity to pick location, returns to calling activity
 
