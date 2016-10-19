@@ -1,4 +1,4 @@
-nearby places
+place picker
 =============
 
 ## startActivityForResult
