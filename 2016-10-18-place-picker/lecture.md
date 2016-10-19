@@ -14,7 +14,7 @@ place picker
 
 ## today
 - **USE AN EMULATOR RUNNING API 24!!!**
-- open place picker in a separate activity and display the result on the screen!
+- open place picker in a separate activity and display the result in the original activity
 - you can start off with the code in [start](start/)
 - my finished version will be available in [end](end/) after the class is finished
 
