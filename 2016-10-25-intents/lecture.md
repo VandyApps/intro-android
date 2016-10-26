@@ -46,6 +46,8 @@ intents
 
 ``` java
 Intent explicitIntent = new Intent(this, OtherActivity.class);
+Uri webpageUri = Uri.parse(url); // url is a string, say "https://google.com"
+implicitIntent.setActionAndData(Intent.ACTION_VIEW, webpageUri);
 startActivity(explicitIntent);
 ```
 
@@ -86,5 +88,7 @@ startActivity(implicitIntent);
 - have you ever seen this dialog before?
 
 ![share dialog](ShareDialog.png)
+
+- if you have NO matching filters, your app crashes when you call `startActivity()`!
 
 ## questions?
