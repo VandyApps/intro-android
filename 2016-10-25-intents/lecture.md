@@ -47,7 +47,7 @@ intents
 ``` java
 Intent explicitIntent = new Intent(this, OtherActivity.class);
 Uri webpageUri = Uri.parse(url); // url is a string, say "https://google.com"
-implicitIntent.setActionAndData(Intent.ACTION_VIEW, webpageUri);
+explicitIntent.setActionAndData(Intent.ACTION_VIEW, webpageUri);
 startActivity(explicitIntent);
 ```
 
