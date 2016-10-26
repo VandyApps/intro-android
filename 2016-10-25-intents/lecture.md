@@ -45,9 +45,8 @@ intents
     - need to know the exact class name of activity/service to start
 
 ``` java
-Intent explicitIntent = new Intent(this, OtherActivity.class);
 Uri webpageUri = Uri.parse(url); // url is a string, say "https://google.com"
-explicitIntent.setActionAndData(Intent.ACTION_VIEW, webpageUri);
+Intent explicitIntent = new Intent(Intent.ACTION_VIEW, webpageUri, this, OtherActivity.class);
 startActivity(explicitIntent);
 ```
 
