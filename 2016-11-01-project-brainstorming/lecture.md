@@ -11,8 +11,67 @@ As the culmination of this lecture series, we want you guys to produce a real li
 
 ## Games
 
+### Examples
+- real-time
+    - RPG
+    - racing
+    - FPS
+- strategy
+    - StarCraft
+    - LoL
+- puzzle
+    - Monument Valley
+- skill
+    - tetris
+    - [simon says](../2016-09-27-simon-says/)
+
+### Challenges
+- dynamically updating UI
+- 3D, if applicable
+- creating game content
+    - e.g. music, levels, artwork
+    - this is not 100% necessary! point is to learn how to write apps, not make the best game ever
+
 ## Quantified Life
+
+Apps which track some part of the user's lifestyle in a way which would be annoying to do manually.
+
+### Examples
+- fitbit
+- sleep tracker
+- calorie counter
+
+### Challenges
+- need to make interaction quick and seamless, otherwise app is annoying to use and users won't put all the data into it that they need to make it most effective
+    - e.g. if it takes more than 5 seconds to put in the number of hours slept, users won't enter it when they wake up, and less likely to accurately track sleep
+- need to visualize data collected by app, or process in some useful way
+    - i.e. in addition to just collecting data, need to present some interesting way to understand it
 
 ## API Interface
 
+Apps which allow users to view data from and interact with some web API. These can be very basic (database viewers) or very complex (social media apps).
+
+### Examples
+- social media apps
+- weather/stock apps
+- bank apps
+- database viewer
+
+### Challenges
+- need to allow user to interact with / understand data from API
+    - interface must be complex enough to expose API, but simple to use
+    - otherwise user could just manually write http requests
+- need to learn API and update app when API changes if it's not your API
+
 ## Tools
+
+Apps which perform a service for the user not covered by the above.
+
+### Examples
+- flashlight
+- calculator
+- photo editor
+
+### Challenges
+- interacting with phone hardware, if applicable
+- may need to use external library for complex operations (e.g. photo editing)
