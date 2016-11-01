@@ -9,6 +9,8 @@ As the culmination of this lecture series, we want you guys to produce a real li
 - [API interface](#api-interface)
 - [tools](#tools)
 
+This is not exhaustive! If you have an idea, but you're not sure if it'll work or how to get it going, ask Chris or me! **THERE ARE NO DUMB IDEAS.** Remember that we're always on [slack](https://vandyapps.slack.com/messages/intro-android/), and we can always set up one-on-one meetings or hold office hours! Let us know if either of those would interest you.
+
 ## Games
 
 ### Examples
