@@ -12,3 +12,5 @@ Everyone in this series is making an android application as a final project for 
 |----------|------------|-------------|
 
 # Hello!
+
+LOL U CANT PUSH
