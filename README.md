@@ -10,7 +10,3 @@ Everyone in this series is making an android application as a final project for 
 
 | Name/URL | Repository | Description |
 |----------|------------|-------------|
-
-# Hello!
-
-LOL U CANT PUSH
